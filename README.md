@@ -1,46 +1,80 @@
-# Hi there, I'm Ashish Sharma! 👋
+# 👋 Hi there, I'm Ashish Sharma!
 
 ![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
 
 ## 👨‍💻 About Me
-I am a passionate *React.js Developer* with 6 months of hands-on experience in web development, specializing in building dynamic and responsive applications. My focus is on crafting seamless user interfaces and integrating powerful APIs to create intuitive and efficient web experiences. 
 
-I'm continuously learning and adapting to new technologies and trends, eager to contribute to a dynamic team while honing my skills further.
+🚀 I am a passionate **React.js & React Native Developer** with **2+ years of hands-on experience** in web and mobile application development.
 
-- 🔭 Currently working on: *[React Projects]*
-- 🌱 Currently learning: *Advanced JavaScript, TypeScript*
-- 💬 Ask me about: *React.js, JavaScript (ES6+), Redux*
-- 📫 How to reach me: *ashishsharma60141@gmail.com*
-- 😄 Pronouns: *He/Him*
-- ⚡ Fun fact: *I'm a huge fan of solving coding challenges and enhancing my problem-solving skills!*
+💻 I specialize in building **modern, responsive, scalable, and user-friendly applications** using **React.js, React Native, JavaScript, Redux, and REST APIs**.
 
-## 🚀 Skills
-- *Web Development:* React.js, JavaScript (ES6+), Redux
-- *Framework:* Tailwind CSS
-- *Programming Languages:* Java
-- *UI/UX Design:* Responsive Design, Styled Components, CSS3, HTML5
-- *Version Control & Tools:* Git, GitHub, npm, Yarn
-- *APIs & Backend Integration:* RESTful APIs, Axios
-- *Debugging & Testing:* React Developer Tools, Jest, Chrome DevTools
+📱 I have experience developing **cross-platform mobile applications** for Android and iOS using React Native, along with responsive and interactive web applications using React.js.
+
+🎯 My main focus is on writing clean and reusable code, integrating APIs, improving application performance, and delivering smooth user experiences across different devices and screen sizes.
+
+📚 I am continuously learning new technologies, improving my problem-solving skills, and working on real-world projects to strengthen my development expertise.
+
+* 🔭 Currently working on: **React.js & React Native Projects**
+* 🌱 Currently learning: **Advanced JavaScript, TypeScript, Next.js & Backend Development**
+* 💬 Ask me about: **React.js, React Native, JavaScript, Redux, REST APIs**
+* 📫 Reach me at: **[ashishsharma60141@gmail.com](mailto:ashishsharma60141@gmail.com)**
+* 😄 Pronouns: **He/Him**
+* ⚡ Fun fact: **I love solving coding challenges, debugging problems, and turning ideas into real-world applications.**
+
+## 🚀 Skills & Technologies
+
+* ⚛️ **Frontend Development:** React.js, JavaScript (ES6+), HTML5, CSS3
+* 📱 **Mobile App Development:** React Native
+* 🧠 **State Management:** Redux, Redux Toolkit
+* 🎨 **Styling & UI:** Tailwind CSS, Responsive Design, Styled Components
+* 🔗 **API Integration:** RESTful APIs, Axios
+* ☕ **Programming Languages:** Java, JavaScript
+* 🛠️ **Tools:** Git, GitHub, npm, Yarn
+* 🧪 **Testing & Debugging:** Jest, React Developer Tools, Chrome DevTools
+* ⚡ **Development Skills:** Reusable Components, Responsive UI, Cross-Platform Development, Performance Optimization
 
 ## 🎓 Certifications
-- *Java With DSA:* System Design Certificate, Physics Wallah
+
+* 📜 **Java with DSA & System Design** – Physics Wallah
 
 ## 💼 Work Experience
-- *React.js Developer Intern* at *ABC Web Development* (February 2024 – Present)
-  - Collaborated closely with UI/UX designers to translate wireframes and mockups into high-quality, functional web applications.
-  - Integrated third-party APIs for enhanced user interactions, ensuring smooth data flow and user engagement.
-  - Debugged, tested, and optimized applications for cross-browser compatibility and performance on various screen sizes.
 
-- *Web Development Intern (MERN Stack)* at *SoftMind Technologies* (January 2024 – April 2024)
-  - Successfully completed a 3-month internship focused on web development using the MERN stack.
-  - Contributed to the development and maintenance of responsive web applications.
-  - Collaborated with a team of developers and designers to deliver high-quality projects under tight deadlines.
+### 👨‍💻 React.js & React Native Developer
+
+**⏳ 2+ Years of Development Experience**
+
+* ⚛️ Developed modern, responsive, and reusable user interfaces using **React.js**.
+* 📱 Built cross-platform mobile applications using **React Native** for Android and iOS.
+* 🔗 Integrated REST APIs and third-party services for dynamic application functionality.
+* 🧠 Worked with Redux and Redux Toolkit for efficient application state management.
+* 🎨 Converted UI/UX designs and wireframes into functional and responsive applications.
+* ⚡ Debugged, optimized, and improved application performance across multiple devices and browsers.
+* 🧩 Created reusable components to improve code maintainability and development efficiency.
+* 🤝 Collaborated with developers and designers to build and deliver production-ready applications.
+
+### 💻 React.js Developer Intern
+
+**🏢 ABC Web Development | February 2024 – Present**
+
+* 🎨 Collaborated with UI/UX designers to convert wireframes and mockups into functional web applications.
+* ⚛️ Developed responsive and reusable React.js components.
+* 🔗 Integrated third-party APIs to provide dynamic application functionality.
+* 🐞 Debugged, tested, and optimized applications for better performance.
+* 📱 Improved user experience across desktop, tablet, and mobile devices.
+
+### 🌐 Web Development Intern – MERN Stack
+
+**🏢 SoftMind Technologies | January 2024 – April 2024**
+
+* 🚀 Completed a 3-month internship focused on MERN Stack web development.
+* 💻 Contributed to the development and maintenance of responsive web applications.
+* 🔧 Worked with frontend and backend technologies to implement application features.
+* 🔗 Integrated APIs and handled application data.
+* 🤝 Collaborated with developers and designers to deliver projects within deadlines.
 
 ## 🌐 Connect with Me
-- *LinkedIn:* [Ashish Sharma](https://linkedin.com/in/ashish-sharma-993413243)
-- *GitHub:* [ashishsharma2885](https://github.com/ashishsharma2885)
 
----
+* 💼 **LinkedIn:** [Ashish Sharma](https://linkedin.com/in/ashish-sharma-993413243)
+* 🐙 **GitHub:** [ashishsharma2885](https://github.com/ashishsharma2885)
+* 📧 **Email:** [ashishsharma60141@gmail.com](mailto:ashishsharma60141@gmail.com)
 
-“Learning never exhausts the mind.” – Leonardo da Vinci
